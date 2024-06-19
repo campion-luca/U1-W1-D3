@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #333;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-weight: 100;
+}
+
+
+nav {
+  background-color: #fefbf1;
+  padding: 1rem 0;
+  border-top: 1px solid #ffd977;
+  color: #004d4d;
+  font-size: 0.8rem;
+  margin-bottom: 4rem;
+}
+
+.principale {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+}
+
+.principale video {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+
+.formula {
+  margin-top: 4rem;
+}
+
+.formula p {
+  font-weight: bold;
+}
+
+.ingredienti {
+  border-bottom: 1px solid rgb(197, 243, 243);
+  margin-bottom: 2rem;
+}
+
+
+#logo {
+  width: 200px;
+  margin: 1rem 0;
+}
+
+
+#citazione {
+  display: block;
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  margin-top: 1rem;
+}
+
+#link_1 {
+  border-left: 1px solid #ffd977;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+
+#link_1 span {
+  color: #b5460f;
+  display: block;
+}
+
+#link_1 a,
+#link_2 {
+  color: #177;
+}
+
+
+
+
+
+
+nav span {
+  font-weight: 300px;
+}
